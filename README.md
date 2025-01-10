@@ -1,7 +1,6 @@
 # Automation in Python
 
-## Installing PyAutoGUI
-Na linha de comando: 
+## Installing PyAutoGUI 
 ```bash
 pip install pyautogui
 ```
